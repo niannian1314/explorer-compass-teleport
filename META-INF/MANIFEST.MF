@@ -1,0 +1,2 @@
+Manifest-Version: 1.0
+MixinConfigs: explorer_compass_teleport_mod_1785563673.mixins.json

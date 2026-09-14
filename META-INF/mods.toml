@@ -1,0 +1,33 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="explorer_compass_teleport_mod_1785563673"
+version="1.1.0"
+displayName="探险家指南针传送扩展"
+authors="2046820954@qq.com"
+description='''
+Explorer's Compass 附属：新增「探险家指南针传送」（在结构附近直接传送，带距离上限与安全落点校验）与「坐标传送」（GUI 输入坐标传送，带 Y 越界/非法坐标校验）两个物品。通过 Mixin 注入指南针逻辑，自定义网络包与坐标输入界面。
+'''
+
+[[dependencies.explorer_compass_teleport_mod_1785563673]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47.4.10,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.explorer_compass_teleport_mod_1785563673]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1, 1.21)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.explorer_compass_teleport_mod_1785563673]]
+    modId="explorerscompass"
+    mandatory=true
+    versionRange="*"
+    ordering="AFTER"
+    side="BOTH"

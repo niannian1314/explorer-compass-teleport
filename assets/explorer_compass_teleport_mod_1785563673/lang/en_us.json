@@ -1,0 +1,11 @@
+{
+  "item.explorer_compass_teleport_mod_1785563673.explorers_compass_teleport": "Explorer's Compass Teleport",
+  "item.explorer_compass_teleport_mod_1785563673.coordinate_teleport": "Coordinate Teleport",
+  "message.explorer_compass_teleport_mod_1785563673.too_far": "The structure is too far away (%d blocks away, max %d blocks)!",
+  "message.explorer_compass_teleport_mod_1785563673.no_safe_spot": "Cannot find a safe spot to teleport to!",
+  "message.explorer_compass_teleport_mod_1785563673.teleported": "Teleported near the structure!",
+  "screen.explorer_compass_teleport_mod_1785563673.coordinate_input": "Enter Coordinates",
+  "screen.explorer_compass_teleport_mod_1785563673.teleport": "Teleport",
+  "screen.explorer_compass_teleport_mod_1785563673.invalid_coords": "Invalid coordinates!",
+  "screen.explorer_compass_teleport_mod_1785563673.out_of_bounds": "Y coordinate out of world bounds!"
+}

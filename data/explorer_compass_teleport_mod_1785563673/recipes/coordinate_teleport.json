@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "E": { "item": "minecraft:ender_eye" },
+    "O": { "item": "minecraft:obsidian" }
+  },
+  "pattern": [" O ", "OEO", " O "],
+  "result": {
+    "item": "explorer_compass_teleport_mod_1785563673:coordinate_teleport"
+  },
+  "show_notification": true
+}

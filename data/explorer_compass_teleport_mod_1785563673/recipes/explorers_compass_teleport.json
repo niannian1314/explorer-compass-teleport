@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "C": { "item": "minecraft:compass" },
+    "E": { "item": "minecraft:ender_pearl" }
+  },
+  "pattern": [" E ", "ECE", " E "],
+  "result": {
+    "item": "explorer_compass_teleport_mod_1785563673:explorers_compass_teleport"
+  },
+  "show_notification": true
+}

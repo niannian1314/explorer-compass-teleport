@@ -1,0 +1,4 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": { "layer0": "explorer_compass_teleport_mod_1785563673:item/coordinate_teleport" }
+}
